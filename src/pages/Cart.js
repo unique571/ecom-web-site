@@ -44,7 +44,7 @@ const Checkout = () => {
               </nav>
               <h4 className="title total">Contact Information</h4>
               <p className="user-details total">
-               (igbokwechukwuebukagoodluck@gmail.com)
+                williams armstrong (monud0232@gmail.com)
               </p>
               <h4 className="mb-3">Shipping Address</h4>
               <form
