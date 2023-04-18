@@ -54,6 +54,7 @@ function App() {
         <Route path="refund-policy" element={<RefundPolicy />} />
         <Route path="shipping-policy" element={<ShippingPolicy />} />
         <Route path="term-conditions" element={<TermAndConditions />} />
+       
         
 
 
